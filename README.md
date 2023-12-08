@@ -1,6 +1,5 @@
 # Wild Fires and Impact of Demographics/Geography on their destruction
-The study strategically considers the impact of key demographic and geographic variables, including county area, population density, and income levels. Employing a robust methodology that integrates advanced machine learning classification models and rigorous statistical tests, our findings consistently support the null hypothesis, suggesting that reported fire sizes do not exhibit significant differences among study states after accounting for demographic and geographic factors. ![image](https://github.com/alokrep/fires/assets/3209293/a08a9a65-92b2-4cb6-8302-26b63ec5c885)
-
+The study strategically considers the impact of key demographic and geographic variables, including county area, population density, and income levels. Employing a robust methodology that integrates advanced machine learning classification models and rigorous statistical tests, our findings consistently support the null hypothesis, suggesting that reported fire sizes do not exhibit significant differences among study states after accounting for demographic and geographic factors.
 # Steps to run the code
 - Import the `src/*.ipynb` file into Google Colab
 - Import/Upload the `src/eol/*` folder into your Google Drive and replace the path in the above notebook file.
